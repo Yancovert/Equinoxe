@@ -27,4 +27,5 @@ This is the official repository for the "ÉQUINOXE" animated trailer, showcasing
 If you'd like to contribute builds, animations, or voice acting, open an issue or start a pull request.
 
 ![TRAILER BANNER](https://github.com/Yancovert/Equinoxe/blob/main/animatics/Screenshot%20From%202025-03-10%2023-08-36.png?raw=true)
+![LOGO](https://github.com/Yancovert/Equinoxe/blob/main/animatics/Timeline_1.mov)
 
