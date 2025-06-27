@@ -13,14 +13,14 @@ This is the official repository for the "ÉQUINOXE" animated trailer, showcasing
 
 ## 📜 Credits
 
-- Directed by: 
-- Builders: 
-- Voice Cast: 
-- Artists/composers:
-- Animators:
-- Compositors:
-- Screenwriters:
-- Editors:
+- Directed by: Yancovert
+- Builders: BallPointPen, Golden Mammon 
+- Voice Cast: VVulfguy(BOB), Gwyn(Alex), TBD(Steve)
+- Artists/composers: Zeel_arite(Storyboard), Paul(Sound Design/Composer)
+- Animators: ruthHS(Sam_TA), Maxi, SB_Productions
+- Compositors:MC_Duff
+- Screenwriters: M. Avionne
+- Editors: Koooooooooono(Jap)
 
 ## 💬 Join Us
 
